@@ -203,25 +203,25 @@ Apesar do menor consumo de memória do padrão int8, os resultados indicam que s
 
 ### Tempo de Processamento
 
-![Tempo de Processamento](tempo_processamento.png)
+![Tempo de Processamento](graficos/tempo_processamento.png)
 
 ---
 
 ### Comparação do MSE
 
-![MSE](mse.png)
+![MSE](graficos/mse.png)
 
 ---
 
 ### Comparação do MAE
 
-![MAE](mae.png)
+![MAE](graficos/mae.png)
 
 ---
 
 ### Curva de Loss
 
-![Loss](loss.png)
+![Loss](graficos/loss.png)
 
 ---
 
