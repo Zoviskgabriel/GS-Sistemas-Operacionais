@@ -12,7 +12,7 @@
 | Lucas Masaki | RM553084 |
 | Pedro Henrique Lima | RM552746 |
 | Carolina Cavalli | RM552925 |
-| Joseph Gabriel Trimboli Agra | RM553094 |
+| Joseh Gabriel Trimboli Agra | RM553094 |
 
 ---
 
