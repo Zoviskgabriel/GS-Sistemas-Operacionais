@@ -285,17 +285,6 @@ docs/Global Solutions OS.pdf
 
 **Sistemas Operacionais**
 
-## Curso
-
-**Engenharia de Software – FIAP**
-
-## Professor
-
-**Prof. Dr. José Gomes Salim Neto**
-
-## Semestre
-
-**1º Semestre de 2026**
 
 ---
 
